@@ -2,3 +2,4 @@ api version : app
 kind : deploy
 name : java
 test name :ss
+replicas : 3
