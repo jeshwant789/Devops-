@@ -1,1 +1,2 @@
-syastem.print ln
+system.print ln
+jk
